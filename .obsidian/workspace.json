@@ -244,8 +244,9 @@
   },
   "active": "5b478dfea0a3a261",
   "lastOpenFiles": [
-    "package.json",
+    "package-lock.json",
     "New Text Document.txt",
+    "package.json",
     "quartz/styles/custom.scss",
     "quartz/styles/New Text Document.txt",
     "quartz/styles",
@@ -269,7 +270,6 @@
     "Solo/Campaign 1 - Artefact/Assets/the artefact.png",
     "Solo/Campaign 1 - Artefact/Assets/targgsvord.png",
     "Solo/Campaign 1 - Artefact/Assets",
-    "Solo/Campaign 1 - Artefact/People/Keepers/Untitled",
     "Mothership/Campaign 1 - Another Bug Hunt/Components/Hydrofluoric Acid.md",
     "index.md",
     "Mothership/Campaign 1 - Another Bug Hunt/Creatures/Enemies/Carcinid.md",
