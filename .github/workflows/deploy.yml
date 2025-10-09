@@ -1,0 +1,54 @@
+name: Build & Deploy Quartz
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+# Required for GitHub Pages
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Recommended by GitHub Pages to avoid overlapping deploys
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # Build Quartz using your repo root as the input.
+      # Your content is in ./content and your configs (quartz.config.ts/layout)
+      # are in the repo root.
+      - name: Build site with Quartz
+        uses: konstfish/quartz-build-action@v6
+        with:
+          path: .        # repo root with content/ and quartz.config.ts
+          output: ./_site
+
+      - name: Verify output exists (debug)
+        run: |
+          ls -la
+          ls -la _site
+
+      - name: Upload artifact for GitHub Pages
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./_site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
