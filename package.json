@@ -1,0 +1,12 @@
+{
+  "name": "campaign-codex",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "quartz build",
+    "preview": "quartz build --serve"
+  },
+  "devDependencies": {
+    "quartz": "github:jackyzha0/quartz"
+  }
+}
