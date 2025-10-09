@@ -9,3 +9,5 @@ tags: [index]
 	- [[Mothership/Campaign 1 - Another Bug Hunt/index|Campaign 1 - Another Bug Hunt]]
 - **Mighty Trio**
 	- [[Mighty Trio/Campaign 1 - Dragon of Icespire Peak]]
+- **Solo**
+	- [[Solo/Campaign 1 - Artefact/index|Hammer of Frost]]
