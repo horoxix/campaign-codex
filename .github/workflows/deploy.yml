@@ -20,18 +20,25 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # lets Quartz read git dates
+          fetch-depth: 0
+
       - uses: actions/setup-node@v4
         with:
           node-version: 22
-      - name: Install dependencies
-        run: npm ci
+
+      - name: Install dependencies (no lockfile)
+        run: npm install --no-audit --no-fund
+
       - name: Build Quartz (uses YOUR config/layout)
         run: npx quartz build
+
       - name: Verify config took effect (debug)
         run: |
+          test -f quartz.config.ts && echo "Found quartz.config.ts" || echo "MISSING quartz.config.ts"
+          test -f quartz.layout.ts && echo "Found quartz.layout.ts" || echo "MISSING quartz.layout.ts"
           ls -la public | head -n 50
-          sed -n '1,120p' public/index.html | sed -n '1,60p'
+          sed -n '1,80p' public/index.html || true
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
