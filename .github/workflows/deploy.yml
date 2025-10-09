@@ -14,18 +14,19 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout your wiki
+      - name: Checkout
         uses: actions/checkout@v4
 
-      # Build Quartz from JUST your content + config/layout.
-      # This action fetches the Quartz engine for the build.
       - name: Build site with Quartz
         uses: konstfish/quartz-build-action@v6
         with:
-          # Directory with your content + configs (repo root)
-          path: .
-          # Where to output the static site
-          output: ./public
+          path: .          # repo root with quartz.config.ts and content/
+          output: ./public # where static files go
+
+      - name: Verify output exists (debug)
+        run: |
+          ls -la
+          ls -la public
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
