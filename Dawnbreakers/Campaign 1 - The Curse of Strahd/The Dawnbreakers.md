@@ -1,6 +1,0 @@
-![[party.png]]
-* [[Cucur]]
-* [[Luther]]
-* [[Andres Gaal]]
-* [[Zelraen Nightbreeze]]
-* [[Belladonna Kolyana]]
