@@ -1,6 +1,8 @@
-import { QuartzConfig } from "./quartz/cfg"
-import * as Plugin from "./quartz/plugins"
-import AutoFolderIndexTitle from "./quartz/plugins/AutoFolderIndexTitle" 
+// quartz.config.ts
+import { QuartzConfig } from "quartz/cfg"
+import * as Plugin from "quartz/plugins"
+// If AutoFolderIndexTitle is YOUR custom plugin, move it out of /quartz and import locally:
+import AutoFolderIndexTitle from "./plugins/AutoFolderIndexTitle"
 
 /**
  * Quartz 4 Configuration
