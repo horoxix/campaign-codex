@@ -1,0 +1,414 @@
+{
+  "autoParse": false,
+  "calendars": [
+    {
+      "name": "Barovian Calendar",
+      "description": "Calendar of the realm of Barovia, home of Strahd.",
+      "path": [],
+      "supportInlineEvents": true,
+      "inlineEventTag": "inline-events",
+      "showIntercalarySeparately": true,
+      "static": {
+        "displayDayNumber": true,
+        "firstWeekDay": 0,
+        "incrementDay": false,
+        "displayMoons": true,
+        "overflow": true,
+        "padDays": 2,
+        "padMonths": 2,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Vasárnap",
+            "id": "ID_29b90acaead9"
+          },
+          {
+            "type": "day",
+            "name": "Hétfő",
+            "id": "ID_6a183b08c8eb"
+          },
+          {
+            "type": "day",
+            "name": "Kedd",
+            "id": "ID_892b7b7a5ae9"
+          },
+          {
+            "type": "day",
+            "name": "Szerda",
+            "id": "ID_6bb98899ba68"
+          },
+          {
+            "type": "day",
+            "name": "Csütörtök",
+            "id": "ID_4a7b683aea19"
+          },
+          {
+            "type": "day",
+            "name": "Péntek",
+            "id": "ID_78690a099b89"
+          },
+          {
+            "type": "day",
+            "name": "Szombat",
+            "id": "ID_ba5b09ba5a89"
+          }
+        ],
+        "months": [
+          {
+            "name": "Dekavr, the Winter Moon",
+            "type": "month",
+            "length": 28,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_7b4978ab581a"
+          },
+          {
+            "name": "Yinyavr, the Cold Moon",
+            "type": "month",
+            "length": 28,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_cb99fbb9395b"
+          },
+          {
+            "name": "Fenravr, the Wolf Moon",
+            "type": "month",
+            "length": 28,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_79881a89cb18"
+          },
+          {
+            "name": "Martavr, the Raven Moon",
+            "type": "month",
+            "length": 28,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_5b9a8a397908"
+          },
+          {
+            "name": "Prylla, the Rain Moon",
+            "type": "month",
+            "length": 28,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_f8399ab80818"
+          },
+          {
+            "name": "Mada, the Maid Moon",
+            "type": "month",
+            "length": 28,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_3ac84a7bc869"
+          },
+          {
+            "name": "Eyun, the Summer Moon",
+            "type": "month",
+            "length": 28,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_e98bc86bc809"
+          },
+          {
+            "name": "Eyul, the Wine Moon",
+            "type": "month",
+            "length": 28,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_89ea78ca5988"
+          },
+          {
+            "name": "Hektavr, the Ghost Moon",
+            "type": "month",
+            "length": 28,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_798a3b990a4b"
+          },
+          {
+            "name": "Sintavr, the Harvest Moon",
+            "type": "month",
+            "length": 28,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_3a9999e8eb59"
+          },
+          {
+            "name": "Ottyavr, the Hunter's Moon",
+            "type": "month",
+            "length": 28,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_db39383b990a"
+          },
+          {
+            "name": "Neyavr, the Rot Moon",
+            "type": "month",
+            "length": 28,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_1bfa3b180a48"
+          }
+        ],
+        "moons": [
+          {
+            "name": "Moon",
+            "cycle": 29.530588853,
+            "offset": 10.24953,
+            "faceColor": "#ffffff",
+            "shadowColor": "#000000",
+            "id": "ID_e98b3a8ab8da"
+          }
+        ],
+        "leapDays": [
+          {
+            "name": "Leap Day",
+            "type": "leapday",
+            "interval": [
+              {
+                "ignore": false,
+                "exclusive": false,
+                "interval": 4
+              },
+              {
+                "ignore": false,
+                "exclusive": true,
+                "interval": 100
+              },
+              {
+                "ignore": false,
+                "exclusive": false,
+                "interval": 400
+              }
+            ],
+            "offset": 0,
+            "timespan": 1,
+            "intercalary": false,
+            "id": "ID_6a28dbb81a48"
+          }
+        ],
+        "eras": []
+      },
+      "seasonal": {
+        "seasons": [],
+        "offset": 0,
+        "type": "Periodic",
+        "displayColors": false,
+        "interpolateColors": true,
+        "weather": {
+          "enabled": false,
+          "seed": 1,
+          "tempUnits": "Imperial",
+          "windUnits": "Metric",
+          "primaryWindDirection": "E"
+        }
+      },
+      "locations": {
+        "locations": []
+      },
+      "current": {
+        "day": 28,
+        "month": 8,
+        "year": 735
+      },
+      "events": [
+        {
+          "name": "Winter Solstice",
+          "description": "The Winter Solstice is the day of the year with the least time between sunrise and sunset. Many western cultures consider it the official date of winter.",
+          "id": "824455",
+          "note": null,
+          "date": {
+            "day": 21,
+            "month": 0,
+            "year": 735
+          },
+          "type": "Date",
+          "category": "natural-event",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          }
+        },
+        {
+          "name": "Summer Solstice",
+          "description": "The Summer Solstice is the day of the year with the most time between \nsunrise and sunset. Many western cultures consider it the official date\n of summer.",
+          "id": "824456",
+          "note": null,
+          "date": {
+            "day": 25,
+            "month": 6,
+            "year": 735
+          },
+          "type": "Date",
+          "category": "natural-event",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          }
+        },
+        {
+          "name": "Spring Equinox",
+          "description": "The Spring Equinox,\nalso called the Vernal Equinox, is the day between the winter and\nsummer solstices where the day is the exact same length as the night.\nMany western cultures consider it the official date of Spring.\n",
+          "id": "824457",
+          "note": null,
+          "date": {
+            "day": 23,
+            "month": 3,
+            "year": 735
+          },
+          "type": "Date",
+          "category": "natural-event",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          }
+        },
+        {
+          "name": "Autumnal Equinox",
+          "description": "The Autumnal Equinox,\nalso called the Fall Equinox, is the midpoint between the summer and\nwinter solstices, where the day is the exact same length as the night.\nMany western cultures consider it the official date of Autumn.\n",
+          "id": "824458",
+          "note": null,
+          "date": {
+            "day": 28,
+            "month": 8,
+            "year": 735
+          },
+          "type": "Date",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          }
+        },
+        {
+          "name": "New Year's Day",
+          "description": "New Year's day marks the date of a new year.",
+          "id": "824459",
+          "note": null,
+          "date": {
+            "day": 1,
+            "year": [
+              null,
+              null
+            ],
+            "month": 0
+          },
+          "type": "Recurring",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          }
+        },
+        {
+          "name": "Paschal Full Moon",
+          "description": "The first full moon after march 21st, which is considered the fixed date for the spring equinox.",
+          "id": "824460",
+          "note": null,
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "type": "Undated",
+          "category": "natural-event",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          }
+        },
+        {
+          "name": "Highharvesttide",
+          "description": "In Daggerford, the celebration of the upcoming harvest, \"Highharvesttide\" is well underway.",
+          "date": {
+            "day": 28,
+            "month": 8,
+            "year": 735
+          },
+          "id": "ID_8b49199b2abb",
+          "note": "4. Sessions/0 (9-11-2025)/Session 0.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Durst Manor",
+          "description": "The players enter Durst Manor",
+          "date": {
+            "day": 28,
+            "month": 8,
+            "year": 735
+          },
+          "id": "ID_18dbfa19baab",
+          "note": "4. Sessions/0 (9-11-2025)/Session 0.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Durst Manor Dungeons",
+          "description": null,
+          "date": {
+            "day": 28,
+            "month": 8,
+            "year": 735
+          },
+          "id": "ID_d869d9daa848",
+          "note": "Wiki/5. Sessions/2 - Hektavr, 735 28.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        }
+      ],
+      "id": "ID_d9bab8493aa9",
+      "categories": [
+        {
+          "name": "Natural Event",
+          "id": "natural-event",
+          "color": "#9e9d24"
+        }
+      ],
+      "dateFormat": "YYYY-MM-DD"
+    }
+  ],
+  "configDirectory": null,
+  "dailyNotes": false,
+  "dateFormat": "YYYY-MM-DD",
+  "defaultCalendar": "ID_d9bab8493aa9",
+  "eventPreview": false,
+  "exit": {
+    "saving": false,
+    "event": false,
+    "calendar": false,
+    "savingEvent": false
+  },
+  "eventFrontmatter": false,
+  "parseDates": false,
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0,
+    "beta": null
+  },
+  "debug": false,
+  "askedToMoveFC": false,
+  "askedAboutSync": true,
+  "syncBehavior": "Always",
+  "inlineEventsTag": null,
+  "paths": [
+    [
+      "/",
+      "DEFAULT"
+    ]
+  ]
+}

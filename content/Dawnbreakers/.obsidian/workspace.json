@@ -1,0 +1,264 @@
+{
+  "main": {
+    "id": "c3adbf041236c7e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6d7df5c64ea943c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d2c1b63aa98e35b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wiki/The Dawnbreakers/The Dawnbreakers.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "The Dawnbreakers"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "79559f2cf258a402",
+    "type": "split",
+    "children": [
+      {
+        "id": "53fa89a6f01494d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0b1ed32c5b726de",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "54a96e4b79a3352c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4f9feee9b7840eb5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 294.5
+  },
+  "right": {
+    "id": "7b32f51c0ea169f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "01a1fbbca30bec7e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b5f265aff571219c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "4. Sessions/0/Prep.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Prep"
+            }
+          },
+          {
+            "id": "0c273dda02b71c32",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "4. Sessions/0/Prep.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Prep"
+            }
+          },
+          {
+            "id": "dc15457033e7799c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "144a4bad35aa547a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "0. DM Screen/4. Sessions/2 (9-25-2025)/2.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2"
+            }
+          },
+          {
+            "id": "070967af9e8c36cf",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_d9bab8493aa9",
+                "ephemeral": {
+                  "viewing": null,
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 28,
+                    "month": 8,
+                    "year": 735
+                  },
+                  "displayDayNumber": true,
+                  "displaySeasonColors": false,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeather": true
+                },
+                "id": "ID_88992be90bda"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "42d6bb7b73559dc0",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 586.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "fantasy-content-generator:Fantasy Generators": false,
+      "publish:Publish changes...": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "calendarium:Open Calendarium": false
+    }
+  },
+  "active": "1d2c1b63aa98e35b",
+  "lastOpenFiles": [
+    "Wiki/Mothership",
+    "Wiki/The Dawnbreakers/Campaign 1 - The Curse of Strahd",
+    "Wiki/The Dawnbreakers",
+    "Wiki/The Dawnbreakers/Campaign 1 - The Curse of Strahd/1. People/1. Player Characters/Andres Gaal.md",
+    "0. DM Screen/Assets/Pasted image 20251002145031.png",
+    "0. DM Screen/1. People/1. Players/Andres Gaal (DM).md",
+    "0. DM Screen/1. People/1. Players/Zelraen Nightbreeze (DM).md",
+    "0. DM Screen/1. People/1. Players/Luther (DM Notes).md",
+    "0. DM Screen/1. People/1. Players/Kaelen Thorne (DM Notes).md",
+    "0. DM Screen/1. People/1. Players/Cucur (DM Notes).md",
+    "0. DM Screen/1. People/1. Players/Belladonna Kolyana (DM Notes).md",
+    "0. DM Screen/1. People/3. Enemies/Strahd Von Zarovich.md",
+    "0. DM Screen/1. People/4. Factions/The Gloamweb Court.md",
+    "0. DM Screen/1. People/4. Factions/The Twilight Grove.md",
+    "0. DM Screen/Assets/twilightgrove.png",
+    "0. DM Screen/1. People/Kaelen Thorne.md",
+    "0. DM Screen/3. Sessions/3/Prep.md",
+    "0. DM Screen/6. Dark Powers/Velkyn.md",
+    "0. DM Screen/6. Dark Powers/1. The Dark Powers.md",
+    "0. DM Screen/1. People/4. Factions",
+    "Wiki/The Dawnbreakers/Campaign 1 - The Curse of Strahd/1. People/1. Player Characters/Belladonna Kolyana.md",
+    "Wiki/The Dawnbreakers/Campaign 1 - The Curse of Strahd/1. People/1. Player Characters/Cucur.md",
+    "Wiki/The Dawnbreakers/Campaign 1 - The Curse of Strahd/1. People/1. Player Characters/Luther.md",
+    "Wiki/The Dawnbreakers/Campaign 1 - The Curse of Strahd/1. People/1. Player Characters/Zelraen Nightbreeze.md",
+    "Wiki/The Dawnbreakers/Campaign 1 - The Curse of Strahd/1. People/2. NPCs/2. Old Svalich Road",
+    "0. DM Screen/6. Dark Powers/Vampyr.md",
+    "0. DM Screen/6. Dark Powers/Kharvos.md",
+    "0. DM Screen/6. Dark Powers/Doloras.md",
+    "0. DM Screen/6. Dark Powers/Cineris.md",
+    "Wiki/The Dawnbreakers/Campaign 1 - The Curse of Strahd/Assets/kharvos.png",
+    "Wiki/The Dawnbreakers/Campaign 1 - The Curse of Strahd/Assets/vampyr.png",
+    "Wiki/The Dawnbreakers/The Dawnbreakers.md",
+    "Wiki/The Dawnbreakers/Campaign 1 - The Curse of Strahd/Assets/doloras.png",
+    "Wiki/The Dawnbreakers/Campaign 1 - The Curse of Strahd/Assets/velkyn.png",
+    "Wiki/The Dawnbreakers/Campaign 1 - The Curse of Strahd/Assets/Cineris.png",
+    "Wiki/The Dawnbreakers/Campaign 1 - The Curse of Strahd/5. Sessions/1 - Hektavr, 735 28.md",
+    "0. DM Screen/6. Dark Powers",
+    "1758858249615 - Encounter.md",
+    "Wiki/The Dawnbreakers/Campaign 1 - The Curse of Strahd/Assets/amber-shard.png",
+    "0. DM Screen/3. Sessions/3",
+    "Wiki/The Dawnbreakers/Campaign 1 - The Curse of Strahd/Assets/barovia.png",
+    "Wiki/The Dawnbreakers/Campaign 1 - The Curse of Strahd/Assets/tome.png",
+    "Wiki/The Dawnbreakers/Campaign 1 - The Curse of Strahd/3. Locations/0. Sword Coast",
+    "Wiki/The Dawnbreakers/Campaign 1 - The Curse of Strahd/3. Locations/2. Barovia/Maps",
+    "Wiki/The Dawnbreakers/Campaign 1 - The Curse of Strahd/3. Locations/2. Barovia",
+    "Wiki/The Dawnbreakers/Campaign 1 - The Curse of Strahd/7. Artifacts"
+  ]
+}
