@@ -1,0 +1,7 @@
+/* Remove the top-left site title in the sidebar */
+.page-title,
+.sidebar .page-title,
+.sidebar .site-title,
+a.site-title {
+  display: none !important;
+}
