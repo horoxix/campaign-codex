@@ -1,6 +1,7 @@
 Property of [[Omni Company]]
 
 A synthetic science officer.
+Location Unknown
 
 # Timeline
 ---

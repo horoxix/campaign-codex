@@ -2,4 +2,6 @@
 * Pilot
 * KIA
 
-# Timeline
+# # Timeline
+---
+***Oct 28 2408:*** Found slumped over in the [[Pantry]], covered in crisscrossing papercuts.
