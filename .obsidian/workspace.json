@@ -73,12 +73,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Mothership/Campaign 1 - Another Bug Hunt/Sessions/1 - October 28th 2418.md",
+                "file": "content/Mothership/Campaign 1 - Another Bug Hunt/People/Player Characters/Unit 84-SP86 (Clanker).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 - October 28th 2418"
+              "title": "Unit 84-SP86 (Clanker)"
             }
           }
         ],
@@ -232,6 +232,10 @@
   },
   "active": "0cf3461574b5291b",
   "lastOpenFiles": [
+    "content/Mothership/Campaign 1 - Another Bug Hunt/People/Player Characters/Kael Starhopper.md",
+    "content/Mothership/Campaign 1 - Another Bug Hunt/People/Player Characters/Ephraim Commander.md",
+    "content/Mothership/Campaign 1 - Another Bug Hunt/People/NPCs/Dr. Edem.md",
+    "content/Mothership/Campaign 1 - Another Bug Hunt/Sessions/1 - October 28th 2418.md",
     "quartz/static/giscus/light.css",
     "quartz/static/giscus/dark.css",
     "quartz/static/og-image.png",
@@ -243,7 +247,6 @@
     "quartz/processors/emit.ts",
     "quartz/processors",
     "content/Mothership/Campaign 1 - Another Bug Hunt/Creatures/Enemies/Carcinid.md",
-    "content/Mothership/Campaign 1 - Another Bug Hunt/Sessions/1 - October 28th 2418.md",
     "content/Mothership/Campaign 1 - Another Bug Hunt/People/NPCs/Demar.md",
     "content/Mothership/Campaign 1 - Another Bug Hunt/Documents/Logbook.md",
     "content/Mothership/Campaign 1 - Another Bug Hunt/Locations/Samsa VI/Greta Base/Medbay.md",
@@ -253,8 +256,6 @@
     "content/Mothership/Campaign 1 - Another Bug Hunt/Locations/Samsa VI/Greta Base/Pantry.md",
     "content/Mothership/Campaign 1 - Another Bug Hunt/Locations/Samsa VI/Greta Base/Commissary.md",
     "content/Mothership/Campaign 1 - Another Bug Hunt/People/Player Characters/Unit 84-SP86 (Clanker).md",
-    "content/Mothership/Campaign 1 - Another Bug Hunt/People/Player Characters/Kael Starhopper.md",
-    "content/Mothership/Campaign 1 - Another Bug Hunt/People/Player Characters/Ephraim Commander.md",
     "content/Mothership/Campaign 1 - Another Bug Hunt/Components/Locator Device.md",
     "content/Mothership/Campaign 1 - Another Bug Hunt/Components/Hydrofluoric Acid.md",
     "content/Mothership/Campaign 1 - Another Bug Hunt/Documents/Job Dossier.md",
@@ -265,7 +266,6 @@
     "content/Mothership/Campaign 1 - Another Bug Hunt/Ships/The Metamorphosis.md",
     "content/Mothership/Campaign 1 - Another Bug Hunt/Assets/Pasted image 20251010112833.png",
     "content/Mothership/Campaign 1 - Another Bug Hunt/Creatures/Tugger.md",
-    "content/Mothership/Campaign 1 - Another Bug Hunt/People/NPCs/Dr. Edem.md",
     "content/Mothership/Campaign 1 - Another Bug Hunt/Assets/Pasted image 20251010130534.png",
     "content/Mothership/Campaign 1 - Another Bug Hunt/Locations/Samsa VI/Greta Base/Airlock.md",
     "content/Mothership/Campaign 1 - Another Bug Hunt/Factions/Omni Company.md",
@@ -276,7 +276,6 @@
     "content/Mothership/Campaign 1 - Another Bug Hunt/Assets/Pasted image 20251010100341.png",
     "content/Mothership/Campaign 1 - Another Bug Hunt/Assets/Pasted image 20251010100321.png",
     "quartz/cli/helpers.js",
-    "quartz/cli/handlers.js",
-    "quartz/cli/constants.js"
+    "quartz/cli/handlers.js"
   ]
 }
