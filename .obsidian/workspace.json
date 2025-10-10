@@ -73,28 +73,14 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Mothership/Campaign 1 - Another Bug Hunt/Assets/another-bug-hunt-handouts-v0-oe3hxycmwpxc1.webp"
+                "file": "content/Mothership/Campaign 1 - Another Bug Hunt/Assets/Pasted image 20251009211913.jpg"
               },
               "icon": "lucide-image",
-              "title": "another-bug-hunt-handouts-v0-oe3hxycmwpxc1"
-            }
-          },
-          {
-            "id": "5b478dfea0a3a261",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaigns Index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Campaigns Index"
+              "title": "Pasted image 20251009211913"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -242,53 +228,53 @@
       "bases:Create new base": false
     }
   },
-  "active": "5b478dfea0a3a261",
+  "active": "0d8ee0654ad485e3",
   "lastOpenFiles": [
-    "package-lock.json",
-    "New Text Document.txt",
-    "package.json",
-    "quartz/styles/custom.scss",
-    "quartz/styles/New Text Document.txt",
-    "quartz/styles",
-    "quartz/New folder",
-    "quartz",
-    "New folder",
-    "Dawnbreakers/Campaign 1 - The Curse of Strahd.md",
-    "Campaigns Index.md",
-    "Solo/Campaign 1 - Artefact/index.md",
-    "Solo/Campaign 1 - Artefact/The Artefact.md",
-    "Solo/Campaign 1 - Artefact/Locations/Targgsvord.md",
-    "Solo/Campaign 1 - Artefact/Locations/Kraggen.md",
-    "Solo/Campaign 1 - Artefact/People/NPCs/Helena Longsteps.md",
-    "Solo/Campaign 1 - Artefact/People/NPCs/Aronus Longsteps.md",
-    "Solo/Campaign 1 - Artefact/People/NPCs",
-    "Solo/Campaign 1 - Artefact/People/Keepers/1-Brambor Helmfoot.md",
-    "Solo/Campaign 1 - Artefact/Assets/kraggen.png",
-    "Solo/Campaign 1 - Artefact/Assets/helena.png",
-    "Solo/Campaign 1 - Artefact/Assets/brambor.png",
-    "Solo/Campaign 1 - Artefact/Assets/aronus.png",
-    "Solo/Campaign 1 - Artefact/Assets/the artefact.png",
-    "Solo/Campaign 1 - Artefact/Assets/targgsvord.png",
-    "Solo/Campaign 1 - Artefact/Assets",
-    "Mothership/Campaign 1 - Another Bug Hunt/Components/Hydrofluoric Acid.md",
-    "index.md",
-    "Mothership/Campaign 1 - Another Bug Hunt/Creatures/Enemies/Carcinid.md",
-    "Mothership/Campaign 1 - Another Bug Hunt/Locations/Samsa VI/Greta Base/Garage.md",
-    "Mothership/Campaign 1 - Another Bug Hunt/Locations/Samsa VI/Greta Base/Medbay.md",
-    "Mothership/Campaign 1 - Another Bug Hunt/Locations/Samsa VI/Greta Base/index.md",
-    "Mothership/Campaign 1 - Another Bug Hunt/Locations/Samsa VI/Greta Base/Freezer.md",
-    "Mothership/Campaign 1 - Another Bug Hunt/Documents/Olsson's Birthday Card.md",
-    "Mothership/Campaign 1 - Another Bug Hunt/Documents/Journal.md",
-    "Mothership/Campaign 1 - Another Bug Hunt/Documents/Job Dossier.md",
-    "Mothership/Campaign 1 - Another Bug Hunt/Locations/Samsa VI/index.md",
-    "Mothership/Campaign 1 - Another Bug Hunt/Creatures/Tugger.md",
-    "Mothership/Campaign 1 - Another Bug Hunt/Components/Synthetic Being Locator Device.md",
-    "Pasted image 20251008122809.jpg",
-    "Mothership/Campaign 1 - Another Bug Hunt/People/Player Characters/Kael Starhopper.md",
-    "Mothership/Campaign 1 - Another Bug Hunt/People/NPCs/Maas.md",
-    "Mothership/Campaign 1 - Another Bug Hunt/Assets/Pasted image 20251008122412.png",
-    "Mothership/Campaign 1 - Another Bug Hunt/People/Player Characters/Ephraim Commander.md",
-    "Mothership/Campaign 1 - Another Bug Hunt/Assets/Pasted image 20251008083502.png",
-    "Mothership/Campaign 1 - Another Bug Hunt/Assets/Pasted image 20251008082838.png"
+    "quartz/cli/helpers.js",
+    "quartz/cli/handlers.js",
+    "quartz/cli/constants.js",
+    "quartz/cli/args.js",
+    "quartz/cli",
+    "quartz/cfg.ts",
+    "quartz/build.ts",
+    "quartz/bootstrap-worker.mjs",
+    "content/Dawnbreakers/Campaign 1 - The Curse of Strahd/Sessions/2 - Hektavr, 735 28.md",
+    "content/Dawnbreakers/Campaign 1 - The Curse of Strahd/Sessions/1 - Hektavr, 735 28.md",
+    "content/Dawnbreakers/Campaign 1 - The Curse of Strahd/Sessions",
+    "content/Dawnbreakers/Campaign 1 - The Curse of Strahd/Locations/Durst Manor/Maps/6. Basement 2.md",
+    "content/Dawnbreakers/Campaign 1 - The Curse of Strahd/Locations/Durst Manor/Maps/5. Basement 1.md",
+    "content/Dawnbreakers/Campaign 1 - The Curse of Strahd/Locations/Durst Manor/Maps/4. Attic.md",
+    "content/Dawnbreakers/Campaign 1 - The Curse of Strahd/Locations/Durst Manor/Maps/3. Third Floor.md",
+    "content/Dawnbreakers/Campaign 1 - The Curse of Strahd/Locations/Durst Manor/Maps/2. Second Floor.md",
+    "content/Dawnbreakers/Campaign 1 - The Curse of Strahd/Locations/Durst Manor/Maps/1. First Floor.md",
+    "content/Dawnbreakers/Campaign 1 - The Curse of Strahd/Locations/Barovia/Maps/Map of Barovia.md",
+    "content/Dawnbreakers/Campaign 1 - The Curse of Strahd/Locations/Sword Coast/Daggerford.md",
+    "content/Dawnbreakers/Campaign 1 - The Curse of Strahd/Locations/Durst Manor/Maps",
+    "content/Dawnbreakers/Campaign 1 - The Curse of Strahd/Locations/Durst Manor/Durst Manor.md",
+    "content/Dawnbreakers/Campaign 1 - The Curse of Strahd/Locations/Barovia/Maps",
+    "content/Dawnbreakers/Campaign 1 - The Curse of Strahd/Locations/Barovia/Barovia.md",
+    "content/Dawnbreakers/Campaign 1 - The Curse of Strahd/Events/Highharvestide.md",
+    "content/Dawnbreakers/Campaign 1 - The Curse of Strahd/Documents/Durst Manor/Party Invitation.md",
+    "content/Dawnbreakers/Campaign 1 - The Curse of Strahd/Documents/Durst Manor/Letter from Strahd Von Zarovich.md",
+    "content/Dawnbreakers/Campaign 1 - The Curse of Strahd/Documents/Durst Manor/Gustav's Suicide Note.md",
+    "content/Dawnbreakers/Campaign 1 - The Curse of Strahd/Documents/Durst Manor/Gustav's Journal.md",
+    "content/Dawnbreakers/Campaign 1 - The Curse of Strahd/Documents/Durst Manor/Elisabeth's Note.md",
+    "content/Dawnbreakers/Campaign 1 - The Curse of Strahd/Documents/Durst Manor/Elisabeth's Journal.md",
+    "content/Dawnbreakers/Campaign 1 - The Curse of Strahd/Documents/Durst Manor/Drasha's Journal.md",
+    "content/Mothership/Campaign 1 - Another Bug Hunt/Locations/Samsa VI/Greta Base/Pantry.md",
+    "content/Mothership/Campaign 1 - Another Bug Hunt/Locations/Samsa VI/Greta Base/Medbay.md",
+    "content/Mothership/Campaign 1 - Another Bug Hunt/Locations/Samsa VI/Greta Base/index.md",
+    "content/Mothership/Campaign 1 - Another Bug Hunt/Locations/Samsa VI/Greta Base/Garage.md",
+    "content/Mothership/Campaign 1 - Another Bug Hunt/Locations/Samsa VI/Greta Base/Freezer.md",
+    "content/Mothership/Campaign 1 - Another Bug Hunt/Assets/Pasted image 20251009213445.png",
+    "content/Mothership/Campaign 1 - Another Bug Hunt/Assets/Pasted image 20251009213337.png",
+    "content/Mothership/Campaign 1 - Another Bug Hunt/Assets/Pasted image 20251009213148.png",
+    "content/Mothership/Campaign 1 - Another Bug Hunt/Assets/Pasted image 20251009213111.png",
+    "content/Mothership/Campaign 1 - Another Bug Hunt/Assets/Pasted image 20251009213041.png",
+    "content/Mothership/Campaign 1 - Another Bug Hunt/Assets/Pasted image 20251009213012.png",
+    "content/Mothership/Campaign 1 - Another Bug Hunt/Assets/Pasted image 20251009212555.jpg",
+    "content/Mothership/Campaign 1 - Another Bug Hunt/Assets/Pasted image 20251009212044.png",
+    "content/Mothership/Campaign 1 - Another Bug Hunt/Assets/Pasted image 20251009212028.jpg",
+    "content/Mothership/Campaign 1 - Another Bug Hunt/Assets/Pasted image 20251009211949.jpg"
   ]
 }
