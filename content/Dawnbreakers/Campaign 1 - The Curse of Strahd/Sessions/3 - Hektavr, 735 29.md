@@ -29,6 +29,7 @@ He approaches them, the sheer weight of his presence pressing down until they ca
 "Another of the dark-elves. The shadows grow crowded with your kin of late." he tells [[Zelraen Nightbreeze]].
 
 Lastly he steps up to [[Belladonna Kolyana]] and lifts her chin in his hands.
+
 ![[3C81FAC3-5BE3-46E8-BA97-D420D27C259C.jpg|200]]
 
 >"Welcome home," he says to her.
