@@ -71,30 +71,18 @@
             "id": "0cf3461574b5291b",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Mothership/Campaign 1 - Another Bug Hunt/Assets/another-bug-hunt-handouts-v0-oe3hxycmwpxc1.webp"
-              },
-              "icon": "lucide-image",
-              "title": "another-bug-hunt-handouts-v0-oe3hxycmwpxc1"
-            }
-          },
-          {
-            "id": "5b478dfea0a3a261",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaigns Index.md",
+                "file": "content/Mothership/Campaign 1 - Another Bug Hunt/People/Player Characters/Unit 84-SP86 (Clanker).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Campaigns Index"
+              "title": "Unit 84-SP86 (Clanker)"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -242,53 +230,52 @@
       "bases:Create new base": false
     }
   },
-  "active": "5b478dfea0a3a261",
+  "active": "0cf3461574b5291b",
   "lastOpenFiles": [
-    "package-lock.json",
-    "New Text Document.txt",
-    "package.json",
-    "quartz/styles/custom.scss",
-    "quartz/styles/New Text Document.txt",
-    "quartz/styles",
-    "quartz/New folder",
-    "quartz",
-    "New folder",
-    "Dawnbreakers/Campaign 1 - The Curse of Strahd.md",
-    "Campaigns Index.md",
-    "Solo/Campaign 1 - Artefact/index.md",
-    "Solo/Campaign 1 - Artefact/The Artefact.md",
-    "Solo/Campaign 1 - Artefact/Locations/Targgsvord.md",
-    "Solo/Campaign 1 - Artefact/Locations/Kraggen.md",
-    "Solo/Campaign 1 - Artefact/People/NPCs/Helena Longsteps.md",
-    "Solo/Campaign 1 - Artefact/People/NPCs/Aronus Longsteps.md",
-    "Solo/Campaign 1 - Artefact/People/NPCs",
-    "Solo/Campaign 1 - Artefact/People/Keepers/1-Brambor Helmfoot.md",
-    "Solo/Campaign 1 - Artefact/Assets/kraggen.png",
-    "Solo/Campaign 1 - Artefact/Assets/helena.png",
-    "Solo/Campaign 1 - Artefact/Assets/brambor.png",
-    "Solo/Campaign 1 - Artefact/Assets/aronus.png",
-    "Solo/Campaign 1 - Artefact/Assets/the artefact.png",
-    "Solo/Campaign 1 - Artefact/Assets/targgsvord.png",
-    "Solo/Campaign 1 - Artefact/Assets",
-    "Mothership/Campaign 1 - Another Bug Hunt/Components/Hydrofluoric Acid.md",
-    "index.md",
-    "Mothership/Campaign 1 - Another Bug Hunt/Creatures/Enemies/Carcinid.md",
-    "Mothership/Campaign 1 - Another Bug Hunt/Locations/Samsa VI/Greta Base/Garage.md",
-    "Mothership/Campaign 1 - Another Bug Hunt/Locations/Samsa VI/Greta Base/Medbay.md",
-    "Mothership/Campaign 1 - Another Bug Hunt/Locations/Samsa VI/Greta Base/index.md",
-    "Mothership/Campaign 1 - Another Bug Hunt/Locations/Samsa VI/Greta Base/Freezer.md",
-    "Mothership/Campaign 1 - Another Bug Hunt/Documents/Olsson's Birthday Card.md",
-    "Mothership/Campaign 1 - Another Bug Hunt/Documents/Journal.md",
-    "Mothership/Campaign 1 - Another Bug Hunt/Documents/Job Dossier.md",
-    "Mothership/Campaign 1 - Another Bug Hunt/Locations/Samsa VI/index.md",
-    "Mothership/Campaign 1 - Another Bug Hunt/Creatures/Tugger.md",
-    "Mothership/Campaign 1 - Another Bug Hunt/Components/Synthetic Being Locator Device.md",
-    "Pasted image 20251008122809.jpg",
-    "Mothership/Campaign 1 - Another Bug Hunt/People/Player Characters/Kael Starhopper.md",
-    "Mothership/Campaign 1 - Another Bug Hunt/People/NPCs/Maas.md",
-    "Mothership/Campaign 1 - Another Bug Hunt/Assets/Pasted image 20251008122412.png",
-    "Mothership/Campaign 1 - Another Bug Hunt/People/Player Characters/Ephraim Commander.md",
-    "Mothership/Campaign 1 - Another Bug Hunt/Assets/Pasted image 20251008083502.png",
-    "Mothership/Campaign 1 - Another Bug Hunt/Assets/Pasted image 20251008082838.png"
+    "content/Mothership/Campaign 1 - Another Bug Hunt/People/Player Characters/Kael Starhopper.md",
+    "content/Mothership/Campaign 1 - Another Bug Hunt/People/Player Characters/Ephraim Commander.md",
+    "content/Mothership/Campaign 1 - Another Bug Hunt/People/NPCs/Dr. Edem.md",
+    "content/Mothership/Campaign 1 - Another Bug Hunt/Sessions/1 - October 28th 2418.md",
+    "quartz/static/giscus/light.css",
+    "quartz/static/giscus/dark.css",
+    "quartz/static/og-image.png",
+    "quartz/static/icon.png",
+    "quartz/static/giscus",
+    "quartz/static",
+    "quartz/processors/parse.ts",
+    "quartz/processors/filter.ts",
+    "quartz/processors/emit.ts",
+    "quartz/processors",
+    "content/Mothership/Campaign 1 - Another Bug Hunt/Creatures/Enemies/Carcinid.md",
+    "content/Mothership/Campaign 1 - Another Bug Hunt/People/NPCs/Demar.md",
+    "content/Mothership/Campaign 1 - Another Bug Hunt/Documents/Logbook.md",
+    "content/Mothership/Campaign 1 - Another Bug Hunt/Locations/Samsa VI/Greta Base/Medbay.md",
+    "content/Mothership/Campaign 1 - Another Bug Hunt/Locations/Samsa VI/Greta Base/Crew Habitat.md",
+    "content/Mothership/Campaign 1 - Another Bug Hunt/Locations/Samsa VI/Greta Base/Command Center.md",
+    "content/Mothership/Campaign 1 - Another Bug Hunt/Locations/Samsa VI/Greta Base/Freezer.md",
+    "content/Mothership/Campaign 1 - Another Bug Hunt/Locations/Samsa VI/Greta Base/Pantry.md",
+    "content/Mothership/Campaign 1 - Another Bug Hunt/Locations/Samsa VI/Greta Base/Commissary.md",
+    "content/Mothership/Campaign 1 - Another Bug Hunt/People/Player Characters/Unit 84-SP86 (Clanker).md",
+    "content/Mothership/Campaign 1 - Another Bug Hunt/Components/Locator Device.md",
+    "content/Mothership/Campaign 1 - Another Bug Hunt/Components/Hydrofluoric Acid.md",
+    "content/Mothership/Campaign 1 - Another Bug Hunt/Documents/Job Dossier.md",
+    "content/Mothership/Campaign 1 - Another Bug Hunt/Documents/Olsson's Birthday Card.md",
+    "content/Mothership/Campaign 1 - Another Bug Hunt/Documents/Journal.md",
+    "content/Mothership/Campaign 1 - Another Bug Hunt/Locations/Samsa VI/Greta Base/Garage.md",
+    "content/Mothership/Campaign 1 - Another Bug Hunt/Locations/Samsa VI/Greta Base/index.md",
+    "content/Mothership/Campaign 1 - Another Bug Hunt/Ships/The Metamorphosis.md",
+    "content/Mothership/Campaign 1 - Another Bug Hunt/Assets/Pasted image 20251010112833.png",
+    "content/Mothership/Campaign 1 - Another Bug Hunt/Creatures/Tugger.md",
+    "content/Mothership/Campaign 1 - Another Bug Hunt/Assets/Pasted image 20251010130534.png",
+    "content/Mothership/Campaign 1 - Another Bug Hunt/Locations/Samsa VI/Greta Base/Airlock.md",
+    "content/Mothership/Campaign 1 - Another Bug Hunt/Factions/Omni Company.md",
+    "content/Mothership/Campaign 1 - Another Bug Hunt/Assets/Pasted image 20251010120343.png",
+    "content/Mothership/Campaign 1 - Another Bug Hunt/Assets/Pasted image 20251010101229.png",
+    "content/Mothership/Campaign 1 - Another Bug Hunt/Assets/Pasted image 20251010093810.png",
+    "content/Mothership/Campaign 1 - Another Bug Hunt/Assets/Pasted image 20251010100452.png",
+    "content/Mothership/Campaign 1 - Another Bug Hunt/Assets/Pasted image 20251010100341.png",
+    "content/Mothership/Campaign 1 - Another Bug Hunt/Assets/Pasted image 20251010100321.png",
+    "quartz/cli/helpers.js",
+    "quartz/cli/handlers.js"
   ]
 }
