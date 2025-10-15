@@ -9,6 +9,8 @@ A dark carriage drops [[Belladonna Kolyana]] off out front of an old and abandon
 
 [[Zelraen Nightbreeze]] appears just then, exiting a dark alleyway with a coin purse a few silvers heavier. Not knowing where to sleep in a city where all of the inns are full of visiting relatives and travelers, his attention is peaked by the small party growing in front of this manor.
 
+![[durst-manor.png]]
+
 [[Rosavalda Durst|Rosavalda Durst]] and [[Thornboldt Durst|Thornboldt Durst]] appear and ask for help. They can't find their brother [[Walter Durst|Walter Durst]]. He is in the house, crying, but they don't know where. They haven't seen their parents for ages. 
 
 Before the party can enter and help the children, [[Cucur]] shows up, curious and decides to just follow along, his motivations unknown. It takes some convincing to allow the construct creature to join the party, but eventually they decide that they will keep an eye on him, and hurry into the [[Durst Manor|Durst Manor]].
@@ -33,7 +35,11 @@ They also find a nursery, and the trapped spirit of [[Margaret]], the nursemaid,
 
 Margaret tells them that Rose and Thorne are in the [[4. Attic]]. She points towards a mirror that Elisabeth Durst used to use, and Zelraen finds a hidden door and staircase.
 
-In the attic, they find a locked door. Cucur unlocks it with the iron key he found a few floors down and they find the remains of Rose and Thorne, along with a dollhouse matching the house they stood in exactly and a chest of toys. Upon inspecting the dollhouse, they can see all of the hidden passageways in the house, including one staircase that leads to the basement. Rose and Thorne appear, this time very much aware that they are dead. They do not want the party to leave them again, alone, locked and starving. Thorne possesses Cucur and Rose possesses Zelraen.
+In the attic, they find a locked door. Cucur unlocks it with the iron key he found a few floors down and they find the remains of Rose and Thorne, along with a dollhouse matching the house they stood in exactly and a chest of toys.
+
+![[Pasted image 20251015114605.png]]
+
+Upon inspecting the dollhouse, they can see all of the hidden passageways in the house, including one staircase that leads to the basement. Rose and Thorne appear, this time very much aware that they are dead. They do not want the party to leave them again, alone, locked and starving. Thorne possesses Cucur and Rose possesses Zelraen.
 
 In a spare room, Belladonna finds a doll and Luther suggests they give it to Rose. Upon doing so, she leaves Zelraen and returns to her room.
 

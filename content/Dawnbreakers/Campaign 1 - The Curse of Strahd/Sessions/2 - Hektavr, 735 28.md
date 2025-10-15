@@ -11,6 +11,8 @@ The party come to what looks like a dining room of sorts, decaying and moldy bon
 
 A massive, slithering [[Grick]] falls from the ceiling on top of him, slamming into Zelraen with powerful tentacles, bloodying him immediately.
 
+![[Pasted image 20251015114648.png]]
+
 Zelraen disengages, flipping back onto the table and firing a direct hit from his short bow into the neck of the Grick.
 
 [[Belladonna Kolyana]], having just learned the ways of Eldritch Blast, attempts it on the Grick and annihilates it with a mighty beam of crackling energy.
@@ -40,6 +42,8 @@ After the battle, they regroup and heal before continuing to explore the dungeon
 
 Luther and Andres find what appears to be a bedroom for the head cultists. Luther investigates a footlocker and finds lots of useful items. He surmises that they were from adventurers who had the unfortunate fate of finding themselves imprisoned here beneath [[Durst Manor]]. Upon grabbing a set of Thieves Tools, two [[Ghast]]s appear and attack, resembling [[Elisabeth Durst]] and [[Gustav Durst]].
 
+![[Pasted image 20251015114744.png]]
+
 The Ghast of Gustav bites deeply into Luther's shoulder. From the hallway outside, Zelraen shoots an arrow, misses and hits Luther in his other shoulder.
 
 Gustav knocks out Luther with his claws, sending the unconscious bard to the cold, dirty floor.
@@ -67,6 +71,8 @@ Below they find a room with rare and creepy trinkets, ignoring most of them. The
 The floor of the room is lined in two feet of water, surrounded by a walkway hugging the walls. In the center of the room is an altar, flesh tendrils squirming and wiggling around a small, baby shaped bundle.
 
 In the far room, huddling in an alcove, is a massive blob of pulsating flesh.
+
+![[Pasted image 20251015114803.png]]
 
 The party approaches the altar. Zelraen moves right and Luther moves left, staying back. Cucur attempts to use the Amber Shard on the [[Flesh Mound]], believing it to be Walter, but it has no effect. Belladonna lifts the bundle to find a blood stained dagger, and is unable to clean the blood off of it. The party discusses obeying the chanting, which has resumed to the previous "One Must Die", by sacrificing [[Lancelot]], but Cucur punches the Flesh Mound before any decision can be made and, with a blood curling roar, the Flesh Mound attacks.
 
