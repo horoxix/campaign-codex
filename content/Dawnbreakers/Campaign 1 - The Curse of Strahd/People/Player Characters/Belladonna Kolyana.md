@@ -22,3 +22,6 @@
 ## Character Arc
 * She arrives at the rumored manor in Daggerford, the exact one she had been seeking.
 * The land that they exited the ruins of [[Durst Manor]] feels... familiar to her. Almost like the feeling of coming home after a long journey rather than visiting a foreign land.
+* Discovers her sister, [[Ireena]], is living in [[Dawnbreakers/Campaign 1 - The Curse of Strahd/Locations/Barovia/Barovia Village/index|Barovia Village]], and resides in the [[Burgomaster's Mansion]]
+* In front of her party, in the heat of battle, reveals that she can walk on walls.
+* Meets [[Ireena]] for the first time.

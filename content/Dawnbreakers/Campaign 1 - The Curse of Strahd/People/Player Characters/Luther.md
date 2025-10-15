@@ -19,4 +19,5 @@
 
 ## Character Arc
 * Sitting along the campfire, playing his lute and pondering the dark and twisted events that had just transpired, Luther begins to hum a melancholy tune, one that he has never heard before nor does he know where it came from, yet he hums it and strums to the songs completion.
+* Luther, after eating his fill of pie from [[Granny]], begins to have the sweetest of dreams.
 

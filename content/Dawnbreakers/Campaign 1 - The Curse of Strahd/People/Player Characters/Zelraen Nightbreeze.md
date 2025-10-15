@@ -21,3 +21,4 @@
 
 ## Character Arc
 * During his first watch, Zelraen encounters the blood-drained corpse of another Drow Elf, one with an emblem sewn on his tunic that is all too familiar.
+* When meeting with [[Dawnbreakers/Campaign 1 - The Curse of Strahd/People/NPCs/Strahd Von Zarovich|Strahd Von Zarovich]], Zelraen is informed that more Drow have been seen in [[Dawnbreakers/Campaign 1 - The Curse of Strahd/Locations/Barovia/index|Barovia]] than usual.
