@@ -3,6 +3,9 @@
 * **Defeated:** 2
 * **Locations:** [[Durst Manor|Durst Manor]], on the [[5. Basement 1]]
 
+```statblock
+monster: Ghast
+```
 ## Timeline
 * **[[2 - Hektavr, 735 28]]**: [[Luther]] and [[Andres Gaal]] were ambushed as they attempted to loot a footlocker in [[5. Basement 1]] of [[Durst Manor]].
 * **[[2 - Hektavr, 735 28]]**: 1 downs [[Luther]].

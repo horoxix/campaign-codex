@@ -100,7 +100,7 @@ During that night, the adventurers level up to 3. Lancelot sleeps next to Bellad
 
 Zelraen finds a corpse with a tattered map, with a name atop it...
 
-[[Barovia]]
+[[Dawnbreakers/Campaign 1 - The Curse of Strahd/Locations/Barovia/index]]
 
 
 
