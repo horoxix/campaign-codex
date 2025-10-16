@@ -4,13 +4,19 @@
 
 The players, after burying [[Rosavalda Durst]], [[Thornboldt Durst]] and the remains of [[Walter Durst]] decide to make camp and rest, mentally and physically.
 
-[[Luther]] plays melancholy tunes, eyes glazed over looking into the fire as [[Andres Gaal]] and [[Zelraen Nightbreeze]] attempt to get some rest, while [[Belladonna Kolyana]] takes first watch. During this watch, she encounters a potential enemy, watching them and after a scuffle, kills him. But, instead of alerting the party, she sinks her vampiric fangs into his neck and drains him of his blood. It's been a long time since she has had anything other than the blood of forest animals and has a hard time controlling herself.
+[[Luther]] plays melancholy tunes, eyes glazed over looking into the fire as [[Andres Gaal]] and [[Zelraen Nightbreeze]] attempt to get some rest, while [[Belladonna Kolyana]] takes first watch. 
+
+She enters her tent, removes her heavy armor, goes to her knees and with eyes closed and a deep breath, raises a hand, a blood red rapier appearing suddenly in her grip. She lifts the back flap of the tent and slips out into the woods, hunting for prey.
+
+She encounters a potential enemy, huddled up against the nearby ruins, watching them and after a scuffle, in which he threatens her, kills him. But, instead of alerting the party, she sinks her vampiric fangs into his neck and drains him of his blood. It's been a long time since she has had anything other than the blood of forest animals and has a hard time controlling herself.
 
 [[Cucur]], never having to fully sleep, is suspicious as Belladonna, claiming first watch, goes into her tent and doesn't reappear. He heads over to the tent and is surprised to find her walking forward in a robe, claiming she was trying to clean herself in a nearby water source. Cucur doesn't press the issue, but is keeping an eye out on her.
 
 [[Zelraen Nightbreeze]] takes the next watch. Also curious about the nearby ruins, he walks along them, only stopping to see some drops of blood, his Drow eyes not mistaking them even in the dim, moonless night.
 
 He follows the trail and finds a body, drained of blood, a familiar web pattern embroidered on his cloak. As he lifts the cloak he sees another Drow, like him. Is this Drow here for him? Has Loth tracked him to a land he himself didn't even know? He finds a map of [[Dawnbreakers/Campaign 1 - The Curse of Strahd/Locations/Barovia/index|Barovia]] in the cloak, with the words smeared in blood "Go Back", written on it.
+
+![[Pasted image 20251015115405.png|400]]
 
 The next morning the party leaves and follows the only real path westward, coming to a massive stone wall, two headless statues on either edge of a rusty iron gate that opens on its own with a powerful screech as they approach it. Though they look for someone, or something who could have opened it, they find none and the [[Gates of Barovia]] close behind them.
 ![[image-21.png]]
@@ -65,6 +71,8 @@ Just then, the ground erupts as [[Zombie|corpses]] ascend and attack the party, 
 
 Ismark, swinging an impressive longsword attacks one of the Zombies, while Zelraen, using steady aim, provides precise support. Cucur, hands raised, lifts the surrounding vines and roots from the ground to entangle the other two Zombies. The party uses a cantrip to let Luther and Andres know that they are needed, who immediately, bellies full of pie, head out of the tavern and rush to the manor.
 
+![[Pasted image 20251015115522.png]]
+
 **Belladonna** darts forward, slashing before retreating, but a zombie’s cleaver catches her side. Gritting her teeth, she scales the manor’s wall with unnatural grace. The others stare in shock, but there’s no time to question it as the wolves close in.
 
 One Dire Wolf slams into Zelraen, pinning him down, its fangs inches from his face. Belladonna, climbing higher, hears a woman scream from inside.
@@ -75,9 +83,11 @@ With a roar, he drives his sword through the wolf attacking Zelraen, then hauls 
 
 At that moment, **Luther** and **Andres** arrive, colliding with another charging wolf. They struggle against the beast’s sheer size but manage to hold it back—helped, to their surprise, by **[[Lancelot]]**, who has followed them and now bravely snaps at the creature’s legs.
 
+[[Andres Gaal]] brutally slices into the Dire Wolf with his sword, leaving a diagonal cut across its thick fur.
+
 Cucur raises a hand and completely obliterates the previously entangled Zombie before it could reach him. Belladonna shoots Eldritch blasts from above. 
 
-Suddenly, two **[[Skeleton]]s** claw their way up from the dirt behind Ismark and Luther. Luther narrowly avoids the strike, while Ismark is saved by Belladonna’s blast, which explodes the skeleton into a scatter of bone and dust.
+Suddenly, two **[[Skeleton]]s** claw their way up from the dirt behind Ismark and Luther. Luther narrowly avoids the strike and destroys the Skeleton with a Starry Wisp spell, while Ismark is saved by Belladonna’s blast, which explodes the skeleton into a scatter of bone and dust.
 
 Another scream echoes from within. Belladonna peers through a shattered window and sees only chaos—books and furniture strewn across the floor.
 
@@ -105,7 +115,7 @@ Inside the room, silence falls. Belladonna convinces Ireena to lower the dagger.
 
 But there will be time for answers later. For now, they must regroup, re-barricade the manor, and rest.
 
-For Ismark has need of their help.
+For [[Ismark]] has need of their help.
 
 
 

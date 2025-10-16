@@ -24,9 +24,12 @@ The party realizes that Walter is not just a missing baby, but somehow is being 
 Rose and Thorne do not know what to make of this information, but insist their brother Walter is still crying and needs help.
 
 As they continue on, [[Cucur]] enters a narrow hallway and is ambushed by a set of three [[Ghoul]]s, chittering along the floor and repeating things such as;
-* "Pretty... so pretty..."
-* "Young. Always young!"
-* "Immortal... We are immortal..."
+
+> "Pretty... so pretty..."
+
+>"Young. Always young!"
+
+> "Immortal... We are immortal..."
 
 The fight is intense. Zelraen shows off his athletics by running, sliding beneath one of the Ghouls and stabbing his daggers into its back, dealing massive damage.
 
@@ -36,7 +39,9 @@ Cucur utilizes his spores, infecting and damaging the ghouls.
 
 [[Andres Gaal]] stomps on one and stabs his blade down through the Ghoul's neck.
 
-Cucur slices off the head of the final ghoul with his Scythe, uttering; "*Not so immortal now, are you?*"
+Cucur slices off the head of the final ghoul with his Scythe, uttering; 
+
+>"*Not so immortal now, are you?*"
 
 After the battle, they regroup and heal before continuing to explore the dungeon.
 
@@ -106,7 +111,7 @@ During that night, the adventurers level up to 3. Lancelot sleeps next to Bellad
 
 Zelraen finds a corpse with a tattered map, with a name atop it...
 
-[[Dawnbreakers/Campaign 1 - The Curse of Strahd/Locations/Barovia/index]]
+[[Dawnbreakers/Campaign 1 - The Curse of Strahd/Locations/Barovia/index|Barovia]]
 
 
 
