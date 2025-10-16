@@ -11,3 +11,4 @@ tags: [index]
 	- [[Mighty Trio/Campaign 1 - Dragon of Icespire Peak]]
 - **Solo**
 	- [[Solo/Campaign 1 - Artefact/index|Hammer of Frost]]
+	- [[Solo/Campaign 2 - Ironsworn Starforged/index|Banished]]
