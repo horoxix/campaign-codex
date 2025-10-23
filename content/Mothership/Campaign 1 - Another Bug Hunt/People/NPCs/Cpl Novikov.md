@@ -1,4 +1,4 @@
-![[Pasted image 20251023120509.png|400]]
+![[Pasted image 20251023131137.png|400]]
 * Fireteam 2
 * Zigzag squad
 * Location: [[Mothership/Campaign 1 - Another Bug Hunt/Locations/Samsa VI/Heron Terraforming Station/index|Heron Terraforming Station]]
