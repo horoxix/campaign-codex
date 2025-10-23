@@ -2,13 +2,16 @@
 ## The Cataclysm
 ---
 {38 / 97}
-World eating abominations of unimaginable scale invaded our galaxy. We could do nothing but flee to the Forge. There was no fighting these things.
+World eating abominations of unimaginable scale, called [[The Enders]] invaded our galaxy. We could do nothing but flee to [[Solo/Campaign 2 - Ironsworn Starforged/Locations/The Forge/index|The Forge]]. There was no fighting these things.
+
+![[Pasted image 20251016145559.png|400]]
 
 ## Exodus
 ---
 {57}
-A ragtag fleet of ships with experimental FTL drives blasted off, carrying our ancestors to the forge. The source of these drives, however, caused the Sundering, a fracturing of reality that plagues us to this day.
+A ragtag fleet of ships with experimental FTL drives blasted off, carrying our ancestors to the Forge. The source of these drives, however, caused [[The Sundering]], a fracturing of reality that plagues us to this day.
 
+![[Pasted image 20251016145857.png|400]]
 ## Communities
 ---
 {43}
@@ -18,7 +21,7 @@ Five founder clans carry the name of a leader ancestor. Territorial skirmishes a
 ---
 {46}
 Iron vows are sworn upon totems of black iron, first forged by a long dead civilization.
-
+![[Pasted image 20251016151159.png|400]]
 ## Laws
 ---
 {72}

@@ -70,7 +70,7 @@ Of course, these are only rumors. The Company denies everything.
 ---
 * [[Maas]] - Corporate Liaison - OLR
 * [[Hinton]] - Science Officer - OSD
-* [[Unit 84-SP86 (Clanker)]] - OSD
+* [[Clanker (Unit 84-SP86)]] - OSD
 
 # Timeline
 ---

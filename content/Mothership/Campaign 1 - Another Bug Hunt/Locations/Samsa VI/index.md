@@ -1,4 +1,4 @@
 ---
 title: Samsa VI
 ---
-![[Pasted image 20251008083502.png]]
+![[Pasted image 20251008083502.png|400]]

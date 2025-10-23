@@ -5,4 +5,5 @@
 
 # # Timeline
 ---
-***Oct 28 2408:*** Found in two parts in the [[Commissary]], her head separated from her body, which was covered in papercuts.
+[[1 - October 28th 2418]] 
+	Found in two parts in the [[Commissary]], her head separated from her body, which was covered in papercuts.

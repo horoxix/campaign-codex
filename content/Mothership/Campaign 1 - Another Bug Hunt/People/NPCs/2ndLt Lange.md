@@ -1,7 +1,8 @@
-![[Pasted image 20251009213012.png]]
+![[Pasted image 20251023115534.png|400]]
 * Pilot
 * KIA
 
 # # Timeline
 ---
-***Oct 28 2408:*** Found slumped over in the [[Pantry]], covered in crisscrossing papercuts.
+[[1 - October 28th 2418]]
+	Found slumped over in the [[Pantry]], covered in crisscrossing papercuts.

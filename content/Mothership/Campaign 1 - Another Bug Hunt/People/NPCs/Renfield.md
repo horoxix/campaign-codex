@@ -4,4 +4,5 @@
 
 # Timeline
 ---
- * ***Oct 28 2408:*** Helped [[Anders]] transport the crew from [[The Metamorphosis]] to [[content/Mothership/Campaign 1 - Another Bug Hunt/Locations/Samsa VI/index|Samsa VI]].
+ * [[1 - October 28th 2418]] 
+	 * Helped [[Anders]] transport the crew from [[The Metamorphosis]] to [[content/Mothership/Campaign 1 - Another Bug Hunt/Locations/Samsa VI/index|Samsa VI]].

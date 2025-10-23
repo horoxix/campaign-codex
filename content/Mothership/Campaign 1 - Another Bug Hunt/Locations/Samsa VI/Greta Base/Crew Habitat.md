@@ -13,4 +13,4 @@
 	* An Anime body pillow (*from Meido Taisen No Densetsu*) (Taken by [[Kael Starhopper]])
 	* [[Olsson's Birthday Card]]
 	* Most importantly, they find the words "COMMS OFF!", spray painted in red on the entrance.
-* ***Oct 28 2408:*** [[Kael Starhopper]] & [[Ephraim Commander]] sleep here while [[Unit 84-SP86 (Clanker)]] repairs the comms array.
+* ***Oct 28 2408:*** [[Kael Starhopper]] & [[Ephraim Commander]] sleep here while [[Clanker (Unit 84-SP86)]] repairs the comms array.
