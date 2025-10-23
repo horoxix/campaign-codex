@@ -1,4 +1,4 @@
-![[Pasted image 20251022130639.png]]
+![[Pasted image 20251023132704.png|400]]
 * Platoon Tech
 * Acting Commander
 * Location: [[Mothership/Campaign 1 - Another Bug Hunt/Locations/Samsa VI/Heron Terraforming Station/index|Heron Terraforming Station]]

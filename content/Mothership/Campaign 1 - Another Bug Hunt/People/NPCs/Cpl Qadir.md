@@ -1,4 +1,4 @@
-![[Pasted image 20251023112201.png]]
+![[Pasted image 20251023131557.png|400]]
 * Fireteam 2
 * Siege Squad
 * Location: Unknown

@@ -1,4 +1,4 @@
-![[Pasted image 20251022130648.png]]
+![[Pasted image 20251023132419.png|400]]
 * APC Tech
 * Zigzag Squad
 * Location: [[Mothership/Campaign 1 - Another Bug Hunt/Locations/Samsa VI/Heron Terraforming Station/index|Heron Terraforming Station]]

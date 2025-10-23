@@ -1,4 +1,4 @@
-![[Pasted image 20251023112046.png]]
+![[Pasted image 20251023131719.png|400]]
 * Fireteam 1
 * Siege Squad
 * KIA

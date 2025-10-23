@@ -8,7 +8,7 @@ Along the way they look back and see [[Demar]] quietly following them.
 
 Eventually they approach the [[Mothership/Campaign 1 - Another Bug Hunt/Locations/Samsa VI/Heron Terraforming Station/index|Heron Terraforming Station]], but as they are taking in the sight, dozens of Carcinids leave the safety of the trees and approach them. They turn to flip around and leave but in doing so, run over one of them, which turns them all aggressive. The muddy ground makes it hard to leave, but before they get overwhelmed or escape, gunfire support and an escort of APCs from the [[Hangar]] come to help them.
 
-![[ai-generated-images-to-help-set-scenes-for-another-bug-hunt-v0-6nahnlrpdqxc1.webp|400]]
+![[ai-generated-images-to-help-set-scenes-for-another-bug-hunt-v0-6nahnlrpdqxc1 1.webp|400]]
 
 >"About damn time," comes a woman's voice from the radio.
 

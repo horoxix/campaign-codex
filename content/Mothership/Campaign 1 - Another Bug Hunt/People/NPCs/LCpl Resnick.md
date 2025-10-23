@@ -1,4 +1,4 @@
-![[Pasted image 20251009213148.png]]
+![[Pasted image 20251023131835.png|400]]
 * Fireteam 1
 * Zigzag Squad
 * KIA

@@ -1,4 +1,4 @@
-![[Pasted image 20251009213337.png]]
+![[Pasted image 20251023132114.jpg|400]]
 * APC Driver
 * Zigzag Squad
 * KIA

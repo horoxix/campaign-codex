@@ -1,4 +1,4 @@
-![[Pasted image 20251023112119.png]]
+![[Pasted image 20251023131514.png|400]]
 
 * Fireteam 1
 * Siege Squad
