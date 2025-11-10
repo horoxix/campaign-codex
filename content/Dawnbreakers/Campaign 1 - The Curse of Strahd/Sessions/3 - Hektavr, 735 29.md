@@ -51,7 +51,7 @@ The party gathers their wits and eventually reach the crest of the valley, exiti
 
 Before approaching the village, they decide to attempt and clean the muck and blood off of them from the nearby river, which fortunately is crystal clear, if cold. Cucur notices a raven watching them and the party has to keep [[Luther]] from staring at [[Belladonna Kolyana]] while she washes.
 
-As clean as possible, they approach the village, entering its muddy, cobblestone streets. They see a woman pushing a cart and wave her over. She introduces herself as [[Granny]] and offers them free pies, as well as directions to lodging, at the [[Blood of the Vine Tavern]]. Luther takes a pie and the party heads to the tavern, watching Granny knock on another door, making her rounds.
+As clean as possible, they approach the village, entering its muddy, cobblestone streets. They see a woman pushing a cart and wave her over. She introduces herself as [[Morgantha]] and offers them free pies, as well as directions to lodging, at the [[Blood of the Vine Tavern]]. Luther takes a pie and the party heads to the tavern, watching Granny knock on another door, making her rounds.
 
 The people look up at them as they enter with minimal interest, even seeing a Drow and a Harvestborn, quickly returning to their solemn drinks and food.
 

@@ -18,7 +18,7 @@
 ## Feats
 * Sliced off the head of a [[Zombie Wolf]] in the first ever fight that the party engaged in.
 * Brutalized a [[Ghoul]] when his Sword responded, glowing brightly and warm at the hilt.
-* Ate one of [[Granny]]'s meat pies and slept in, missing the procession for [[Kolyan Indirovich]].
+* Ate one of [[Morgantha]]'s meat pies and slept in, missing the procession for [[Kolyan Indirovich]].
 
 ## Character Arc
 * While fighting [[Ghoul]]s in [[5. Basement 1]] of [[Durst Manor]], the hilt of his sword began to glow with raw power.

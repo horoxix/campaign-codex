@@ -4,7 +4,7 @@ Ismark requests that they take Ireena and flee to Vallaki, a place far West wher
 
 [[Cucur]] asks about leaving, as that's all he is truly concerned with. Ismark tells them that only the Vistani can travel through the mists, yet they all work for Strahd to some degree. There is one gathering of Vistani, however, that are not loyal to him. They currently are in a camp by the Tser Pool, just West of [[Dawnbreakers/Campaign 1 - The Curse of Strahd/Locations/Barovia/Barovia Village/index|Barovia Village]]. There, Madam Eva can both guide them to Vallaki and, with hope, tell them how to defeat Strahd.
 
-Ismark also tells them that the pies they were given, by [[Granny]], were bought at a steep price, as they were very addictive, even to the point where Granny would take children from those lacking payment.
+Ismark also tells them that the pies they were given, by [[Morgantha]], were bought at a steep price, as they were very addictive, even to the point where Granny would take children from those lacking payment.
 
 They ask Ismark to accompany them but he refuses, as his father [[Kolyan Indirovich]], the previous Burgomaster of Barovia has died recently and he must take up the mantle.
 
