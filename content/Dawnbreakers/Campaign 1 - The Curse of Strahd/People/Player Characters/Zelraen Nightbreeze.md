@@ -3,12 +3,12 @@
 ---
 * **Player:** Dustin Myers
 * **Class:** Rogue
-* **Subclass:** ???
+* **Subclass:** Phantom
 * **Race:** Drow
 * **Nicknames:** Laughing Shadow
 * **Alignment:** Chaotic Good
 * **Languages:** *Draconic, Goblin, Thieves' Cant, Common, Abyssal*
-* **Level:** 3
+* **Level:** 4
 
 ## Info
 * Was in [[Daggerford]] for [[Highharvestide]] to make some easy coin, however found himself interested in helping the children. He saw a likeness in him to himself and his brother.

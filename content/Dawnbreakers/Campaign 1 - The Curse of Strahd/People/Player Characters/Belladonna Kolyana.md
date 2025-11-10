@@ -3,10 +3,10 @@
 ---
 * * **Player:** Chris Daley
 * **Class:** Paladin | Warlock
-* **Subclass:** ???
-* **Race:** ???
+* **Subclass:** Oath of Vengenance
+* **Race:** Dhampir
 * **Alignment:** ???
-* **Level:** 3
+* **Level:** 4
 
 ## Info
 * Arrived at [[Durst Manor]] in [[Daggerford]] with a purpose. She was there for a specific reason.
@@ -22,6 +22,6 @@
 ## Character Arc
 * She arrives at the rumored manor in Daggerford, the exact one she had been seeking.
 * The land that they exited the ruins of [[Durst Manor]] feels... familiar to her. Almost like the feeling of coming home after a long journey rather than visiting a foreign land.
-* Discovers her sister, [[Ireena]], is living in [[Dawnbreakers/Campaign 1 - The Curse of Strahd/Locations/Barovia/Barovia Village/index|Barovia Village]], and resides in the [[Burgomaster's Mansion]]
+* Discovers her sister, [[Dawnbreakers/Campaign 1 - The Curse of Strahd/People/NPCs/Ireena Kolyana]], is living in [[Dawnbreakers/Campaign 1 - The Curse of Strahd/Locations/Barovia/Barovia Village/index|Barovia Village]], and resides in the [[Burgomaster's Mansion]]
 * In front of her party, in the heat of battle, reveals that she can walk on walls.
-* Meets [[Ireena]] for the first time.
+* Meets [[Dawnbreakers/Campaign 1 - The Curse of Strahd/People/NPCs/Ireena Kolyana]] for the first time.

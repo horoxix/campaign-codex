@@ -57,13 +57,13 @@ The people look up at them as they enter with minimal interest, even seeing a Dr
 
 [[Arik the Barkeep]] barely looks up from washing his glasses and the party approaches, trying to ask him info, but is interrupted by [[Alenka]], the owner of the tavern. He is Vistani and the party asks him questions while his wife [[Mirabel]] and daughter [[Sorvia]] look for space for them to sleep. He informs them that he doesn't know a Madam Eva, but that there are some other Vistani camping just outside of the city and recommends they look there. He tells them also that a large amount of Barovians are soulless, the trapped land not having enough souls to go around and that Arik is one of them. Mirabel comes back with news that they have enough room for about half of the party.
 
-When Alenka mentions that Strahd has been infatuated with [[Ireena]] over at the [[Burgomaster's Mansion]], Belladonna immediately stands up and goes to leave.
+When Alenka mentions that Strahd has been infatuated with [[Dawnbreakers/Campaign 1 - The Curse of Strahd/People/NPCs/Ireena Kolyana]] over at the [[Burgomaster's Mansion]], Belladonna immediately stands up and goes to leave.
 
 Luther and Andres decide to eat pies and enjoy the hospitality, Belladonna, Cucur and Zelraen head to the mansion.
 
 They find a disturbing sight.
 
-Every window and door boarded up, the outer gate barricaded with makeshift wooden braces, and the plants and shrubbery smashed to the earth as if stepped on. They hear shouting and head to the side of the mansion to find [[Ismark]] arguing with a helmed and armored man.
+Every window and door boarded up, the outer gate barricaded with makeshift wooden braces, and the plants and shrubbery smashed to the earth as if stepped on. They hear shouting and head to the side of the mansion to find [[Ismark Kolyanovich]] arguing with a helmed and armored man.
 
 The man is telling Ismark to retrieve Ireena for him. Ismark, sword drawn is arguing and telling him to begone, that he will never have his sister. The party intervenes as the man leaves, smiling and unfazed, telling Ismark that Strahd always gets what he wants.
 
@@ -115,7 +115,7 @@ Inside the room, silence falls. Belladonna convinces Ireena to lower the dagger.
 
 But there will be time for answers later. For now, they must regroup, re-barricade the manor, and rest.
 
-For [[Ismark]] has need of their help.
+For [[Ismark Kolyanovich]] has need of their help.
 
 
 

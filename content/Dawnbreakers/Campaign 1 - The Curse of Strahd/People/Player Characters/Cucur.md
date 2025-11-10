@@ -3,10 +3,10 @@
 ---
 * **Player:** Shae Densley
 * **Class:** Druid
-* **Subclass:** ???
+* **Subclass:** Circle of Spores
 * **Race:** Harvestborn
 * **Alignment:** Chaotic Good
-* **Level:** 3
+* **Level:** 4
 
 ## Info
 * A construct in the likeness of a scarecrow, Cucur was created by ambient magic in the earth which bound him to the earth itself, giving him a strong connection with nature and led to his learning of the Druidic arts.
