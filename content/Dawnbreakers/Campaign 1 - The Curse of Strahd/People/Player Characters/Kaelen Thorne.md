@@ -1,6 +1,4 @@
-
-
----
+![[Pasted image 20251110125605.png|400]]
 * **Player:** Brandon Cook
 * **Class:** Ranger
 * **Race:** Variant Human
